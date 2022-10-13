@@ -76,6 +76,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Computer Science student at the University of Warsaw. My interests are Algorithmics and Probability Theory.I 
+I am a Computer Science student at the University of Warsaw. My interests are Algorithmics and Probability Theory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
