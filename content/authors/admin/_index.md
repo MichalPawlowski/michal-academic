@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/). \n
+I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/). <br/>
 I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/).
