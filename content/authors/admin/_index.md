@@ -27,8 +27,9 @@ interests:
   - Prophet Inequalities
   - Online Problems with Delays 
   - Stochastic Probing
-  - Sports: Hiking and Cycling
-  - Board Games
+
+#  - Hiking and Cycling
+#  - Board Games
 
 # Hobbies to show in About widget
 hobbies:
