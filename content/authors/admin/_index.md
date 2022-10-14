@@ -16,17 +16,17 @@ role: PhD Student
 organizations:
   - name: University of Warsaw
     url: https://www.mimuw.edu.pl/
-  - name: IDEAS NCBR
-    url: https://ideas-ncbr.pl/
     
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Computer Science student interested in Algorithmics and Probability Theory.
+bio: I am a Computer Science student interested in Online Algorithms and Probability Theory.
 
 # Interests to show in About widget
 interests:
   - Prophet Inequalities
   - Online Problems with Delays 
   - Stochastic Probing
+  - Facility Location Problem
+  - Artificial Inteligence
 
 #  - Hiking and Cycling
 #  - Board Games
@@ -81,7 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a second year PhD student at the University of Warsaw.
-My interests are Online Algorithms and Probability Theory.
+I am a second year PhD student at University of Warsaw. 
+I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
