@@ -10,7 +10,7 @@ last_name: Pawłowski
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student, Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a second year PhD student at [University of Warsaw](https://www.mimuw.edu.pl/). \\
+I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/).
 I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/).
