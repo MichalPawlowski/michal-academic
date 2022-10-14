@@ -27,7 +27,11 @@ interests:
   - Prophet Inequalities
   - Online Problems with Delays 
   - Stochastic Probing
-  - Artificial Inteligence
+  - Sports: Hiking and Cycling
+  - Board Games
+
+# Hobbies to show in About widget
+hobbies:
   - Hiking and Cycling
   - Board Games
 
@@ -36,16 +40,16 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Warsaw
-      year: 2021-present
+      year: 2021 – present
     - course: MSc in Computer Science
       institution: University of Warsaw
-      year: 2019-2021
+      year: 2019 – 2021
     - course: BSc in Computer Science
       institution: University of Warsaw
-      year: 2015-2019
+      year: 2015 – 2019
     - course: BSc in Mathematics
       institution: University of Warsaw
-      year: 2015-2018
+      year: 2015 – 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,6 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Computer Science student at the University of Warsaw. My interests are Algorithmics and Probability Theory.
+I am a second year PhD student at the University of Warsaw.
+My interests are Online Algorithms and Probability Theory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
