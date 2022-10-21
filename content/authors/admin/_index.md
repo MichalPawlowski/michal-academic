@@ -14,10 +14,10 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UW
+  - name: University of Warsaw
     url: https://www.mimuw.edu.pl/
-  - name: IDEAS NCBR
-    url: https://ideas-ncbr.pl/
+  # - name: IDEAS NCBR
+  #   url: https://ideas-ncbr.pl/
     
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Computer Science student interested in Online Algorithms and Probability Theory.
