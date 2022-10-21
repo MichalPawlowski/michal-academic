@@ -60,12 +60,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+    label: Send me an email
     display:
       header: true
   - icon: twitter
     icon_pack: fab
     link: '/#'
-    label: Follow me on Twitter
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: '/#'
