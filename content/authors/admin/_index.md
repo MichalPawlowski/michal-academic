@@ -14,8 +14,10 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 # organizations:
-#   - name: University of Warsaw
-#     url: https://www.mimuw.edu.pl/
+  - name: UW
+    url: https://www.mimuw.edu.pl/
+  - name: IDEAS NCBR
+    url: https://ideas-ncbr.pl/
     
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Computer Science student interested in Online Algorithms and Probability Theory.
@@ -92,3 +94,5 @@ highlight_name: true
 
 I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/). <br/>
 I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
