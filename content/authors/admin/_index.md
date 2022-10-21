@@ -13,7 +13,7 @@ superuser: true
 role: PhD Student
 
 # Organizations/Affiliations to show in About widget
-# organizations:
+organizations:
   - name: UW
     url: https://www.mimuw.edu.pl/
   - name: IDEAS NCBR
