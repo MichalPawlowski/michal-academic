@@ -27,8 +27,8 @@ interests:
   - Prophet Inequalities
   - Online Problems with Delays 
   - Stochastic Probing
-  - Facility Location Problem
-  - Artificial Inteligence
+# - Facility Location Problem
+# - Artificial Inteligence
 
 #  - Hiking and Cycling
 #  - Board Games
