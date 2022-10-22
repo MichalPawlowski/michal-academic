@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Winter semester, 2022/23
 
-- {{< icon name="fa-regular fa-book" pack="fa" >}} ASD
+- {{< icon name="regular book" pack="fa" >}} ASD
 
 ## 👋 Welcome to the Academic Template
 
