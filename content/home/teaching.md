@@ -56,7 +56,7 @@ subtitle = ""
 
 {{< icon name="fa-regular fa-book" pack="fa" >}} Theory of Concurrency
 
-## Summer semester, 2022/23
+## Summer semester, 2021/22
 
 {{< icon name="fa-regular fa-book" pack="fa" >}} Theory of Concurrency
 
