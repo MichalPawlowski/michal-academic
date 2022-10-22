@@ -52,7 +52,14 @@ subtitle = ""
 
 ## Winter semester, 2022/23
 
-- {{< icon name="regular book" pack="fa" >}} ASD
+{{< icon name="fa-regular fa-book" pack="fa" >}} Algorithms and Data Structures
+
+{{< icon name="fa-regular fa-book" pack="fa" >}} Theory of Concurrency
+
+## Summer semester, 2022/23
+
+{{< icon name="fa-regular fa-book" pack="fa" >}} Theory of Concurrency
+
 
 ## 👋 Welcome to the Academic Template
 
