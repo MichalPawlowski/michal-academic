@@ -54,11 +54,11 @@ subtitle = ""
 
 {{< icon name="fa-regular fa-book" pack="fa" >}} [Algorithms and Data Structures]({{< ref "teaching/2022-aisd.md" >}})
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} Theory of Concurrency
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/2022-tw.md" >}})
 
 ## Summer semester, 2021/22
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} Theory of Concurrency
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/2021-tw.md" >}})
 
 
 <!-- ## 👋 Welcome to the Academic Template
