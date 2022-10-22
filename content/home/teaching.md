@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
+## Winter semester, 2022/23
+
+- {{< icon name="book" pack="custom" >}} ASD
+
 ## 👋 Welcome to the Academic Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
