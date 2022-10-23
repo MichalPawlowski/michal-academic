@@ -52,13 +52,13 @@ subtitle = ""
 
 ## Winter semester, 2022/23
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} [Algorithms and Data Structures]({{< ref "teaching/2022-aisd.md" >}})
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Algorithms and Data Structures]({{< ref "teaching/22-23-aisd.md" >}})
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/2022-tw.md" >}})
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/22-23-tw.md" >}})
 
 ## Summer semester, 2021/22
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/2021-tw.md" >}})
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/21-22-tw.md" >}})
 
 
 <!-- ## 👋 Welcome to the Academic Template
