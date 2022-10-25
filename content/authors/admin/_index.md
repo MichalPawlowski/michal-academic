@@ -63,8 +63,8 @@ social:
     icon_pack: fas
     link: '/#contact'
     label: Send me an email
-    display:
-      header: true
+    # display:
+    #   header: true
   - icon: twitter
     icon_pack: fab
     link: '/#'
