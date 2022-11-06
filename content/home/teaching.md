@@ -52,10 +52,10 @@ subtitle = ""
 
 ## Winter semester, 2022/23
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} [Algorytmy i Struktury Danych]({{< ref "teaching/22-23-asd.md" >}})
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Algorithms and Data Structures (PL)]({{< ref "teaching/22-23-asd.md" >}})
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} [Teoria Współbieżności]({{< ref "teaching/22-23-tw.md" >}})
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency (PL)]({{< ref "teaching/22-23-tw.md" >}})
 
 ## Summer semester, 2021/22
 
-{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency]({{< ref "teaching/21-22-tw.md" >}})
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency (EN)]({{< ref "teaching/21-22-tw.md" >}})
