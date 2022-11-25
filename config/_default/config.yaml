@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Michał Pawłowski # Website name
-baseURL: 'https://www.mimuw.edu.pl/%7Emp371303/' # Website URL
+baseURL: 'https://www.mimuw.edu.pl/~mp371303/' # Website URL
 
 ############################
 ## LANGUAGE
