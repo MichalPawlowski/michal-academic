@@ -1,0 +1,55 @@
+body {
+	font-family: Helvetica, Arial, sans-serif; font-size: 12pt;	background: #E0FFE0
+}
+
+p, ul, ol, td, table, tr, th {
+	font-family: Helvetica, Arial, sans-serif; font-size: 12pt
+}
+
+h1 {font-family: Helvetica, Arial, sans-serif; font-size: 18pt}
+h2 {font-family: Helvetica, Arial, sans-serif; font-size: 14pt}
+h3 {font-family: Helvetica, Arial, sans-serif; font-size: 12pt}
+h4 {font-family: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 12pt}
+
+INPUT {
+	BACKGROUND-COLOR: rgb(225,225,225); BORDER-BOTTOM: thin groove; BORDER-LEFT: thin groove; BORDER-RIGHT: thin groove; BORDER-TOP: thin groove; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; FONT-SIZE: 11px
+}
+
+TEXTAREA {
+	BACKGROUND-COLOR: rgb(225,225,225); BORDER-BOTTOM: thin groove; BORDER-LEFT: thin groove; BORDER-RIGHT: thin groove; BORDER-TOP: thin groove; FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif; FONT-SIZE: 11px
+}
+
+#th {
+	font-family: helvetica, arial;
+	font-size: 11pt;
+	color: black;
+	background: #E0EFE0;
+	font-weight: bold;
+}
+
+#td {
+	font-family: helvetica, arial;
+	font-size: 11pt;
+	color: black;
+	background: #ffffff;
+}
+
+#td1 {
+	font-family: helvetica, arial;
+	font-size: 11pt;
+	color: black;
+	background: #f0f0f0;
+}
+
+#tab {
+	border: 1;
+}
+
+
+.hint { font-size: 10px; color: #a0a0a0; }
+
+.hiddenlink {
+  color: #000; /* same color as the surrounding text */
+  text-decoration: none; /* to remove the underline */
+  cursor: text; /* to make the cursor stay as a text cursor, not the hand */
+}
