@@ -91,7 +91,7 @@ email: ''
 highlight_name: true
 ---
 
-I am pursuing a PhD degree in Computer Science. This part of my academic journey began two years ago when I got accepted to the Doctoral School of the University of Warsaw. A year later, I joined Sapienza University of Rome as a PhD student in the Department of Computer, Control, and Management Engineering. Since then, I have been in a joint PhD program between both universities. My supervisors are Prof. Piotr Sankowski and Prof. Stefano Leonardi. Besides working in academia, I am a Doctoral Researcher at IDEAS NCBR in the Intelligent Algorithms and Data Structures group.
+I am pursuing a PhD degree in Computer Science. This part of my academic journey began two years ago when I got accepted to the Doctoral School of the University of Warsaw. A year later, I joined the Sapienza University of Rome as a PhD student at the Department of Computer, Control and Management Engineering. Since then, I have been on a joint PhD program between both universities. My supervisors are Prof. Piotr Sankowski and Prof. Stefano Leonardi. Besides working in academia, I am a&nbsp;Doctoral Researcher at IDEAS NCBR in the Intelligent Algorithms and Data Structures group.
 
 Before that, I graduated with honors with a master's diploma in Computer Science from the University of Warsaw. I wrote my thesis under the supervision of Marek Adamczyk (University of Wrocław). Two years prior, I obtained a double bachelor's degree in Computer Science and Mathematics (also with honors) from the same university. My advisors were Prof. Adam Sękowski and Prof. Janusz Jabłonowski.
 
