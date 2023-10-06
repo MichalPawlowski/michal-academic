@@ -50,6 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
+## Winter semester, 2023/24
+
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Linear Algebra (PL)]({{< ref "teaching/23-24-al.md" >}})
+
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Theory of Concurrency (PL)]({{< ref "teaching/23-24-tw.md" >}})
+
 ## Winter semester, 2022/23
 
 {{< icon name="fa-regular fa-book" pack="fa" >}} [Algorithms and Data Structures (PL)]({{< ref "teaching/22-23-asd.md" >}})
