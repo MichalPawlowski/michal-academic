@@ -25,10 +25,10 @@ organizations:
 bio: I am a Computer Science student interested in Online Algorithms and Probability Theory.
 
 # Interests to show in About widget
-interests:
-  - Prophet Inequalities
-  - Online Problems with Delays 
-  - Stochastic Probing
+# interests:
+# - Prophet Inequalities
+# - Online Problems with Delays 
+# - Stochastic Probing
 # - Facility Location Problem
 # - Artificial Inteligence
 
@@ -38,20 +38,20 @@ hobbies:
   - Board Games
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University of Warsaw
-      year: 2021 – present
-    - course: MSc in Computer Science
-      institution: University of Warsaw
-      year: 2019 – 2021
-    - course: BSc in Computer Science
-      institution: University of Warsaw
-      year: 2015 – 2019
-    - course: BSc in Mathematics
-      institution: University of Warsaw
-      year: 2015 – 2018
+# education:
+#   courses:
+#     - course: PhD in Computer Science
+#       institution: University of Warsaw
+#       year: 2021 – present
+#     - course: MSc in Computer Science
+#       institution: University of Warsaw
+#       year: 2019 – 2021
+#     - course: BSc in Computer Science
+#       institution: University of Warsaw
+#       year: 2015 – 2019
+#     - course: BSc in Mathematics
+#       institution: University of Warsaw
+#       year: 2015 – 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -91,7 +91,7 @@ email: ''
 highlight_name: true
 ---
 
-I am pursuing a PhD degree in Computer Science. This part of my academic journey began two years ago when I got accepted to the Doctoral School of Exact and Natural Sciences of the University of Warsaw. A year later, I joined Sapienza University of Rome as a PhD student in the Department of Computer, Control, and Management Engineering. Since then, I have been in a joint PhD program between both universities. My supervisors are Prof. Piotr Sankowski (University of Warsaw) and Prof. Stefano Leonardi (Sapienza University of Rome). Besides working in academia, I am a Doctoral Researcher at IDEAS NCBR in the Intelligent Algorithms and Data Structures group.
+I am pursuing a PhD degree in Computer Science. This part of my academic journey began two years ago when I got accepted to the Doctoral School of Exact and Natural Sciences of the University of Warsaw. A year later, I joined Sapienza University of Rome as a PhD student in the Department of Computer, Control, and Management Engineering. Since then, I have been in a joint PhD program between both universities. My supervisors are Prof. Piotr Sankowski and Prof. Stefano Leonardi. Besides working in academia, I am a Doctoral Researcher at IDEAS NCBR in the Intelligent Algorithms and Data Structures group.
 
 Before that, I graduated with honors with a master's diploma in Computer Science from the University of Warsaw. I wrote my thesis under the supervision of Marek Adamczyk (University of Wrocław). Two years prior, I obtained a double bachelor's degree in Computer Science and Mathematics (also with honors) from the same university. My advisors were Prof. Adam Sękowski and Prof. Janusz Jabłonowski.
 
