@@ -15,9 +15,11 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Warsaw
-    url: https://www.mimuw.edu.pl/
-  # - name: IDEAS NCBR
-  #   url: https://ideas-ncbr.pl/
+    url: https://en.uw.edu.pl/
+  - name: Sapienza University of Rome
+    url: https://www.uniroma1.it/en/
+  - name: IDEAS NCBR
+    url: https://ideas-ncbr.pl/en/
     
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Computer Science student interested in Online Algorithms and Probability Theory.
@@ -29,9 +31,6 @@ interests:
   - Stochastic Probing
 # - Facility Location Problem
 # - Artificial Inteligence
-
-#  - Hiking and Cycling
-#  - Board Games
 
 # Hobbies to show in About widget
 hobbies:
@@ -92,7 +91,13 @@ email: ''
 highlight_name: true
 ---
 
-I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/). <br/>
-I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/).
+I am pursuing a PhD degree in Computer Science. This part of my academic journey began two years ago when I got accepted to the Doctoral School of Exact and Natural Sciences of the University of Warsaw. A year later, I joined Sapienza University of Rome as a PhD student in the Department of Computer, Control, and Management Engineering. Since then, I have been in a joint PhD program between both universities. My supervisors are Prof. Piotr Sankowski (University of Warsaw) and Prof. Stefano Leonardi (Sapienza University of Rome). Besides working in academia, I am a Doctoral Researcher at IDEAS NCBR in the Intelligent Algorithms and Data Structures group.
+
+Before that, I graduated with honors with a master's diploma in Computer Science from the University of Warsaw. I wrote my thesis under the supervision of Marek Adamczyk (University of Wrocław). Two years prior, I obtained a double bachelor's degree in Computer Science and Mathematics (also with honors) from the same university. My advisors were Prof. Adam Sękowski and Prof. Janusz Jabłonowski.
+
+My research interests lie in the area of approximation algorithms for optimization under uncertainty. The main problems I have worked on so far revolved around prophet inequalities and online problems with delays. However, during my stay at Sapienza, I also became interested in algorithmic game theory and mechanism design. I love broadening my knowledge and experience.
+
+<!-- I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/). <br/>
+I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/). -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}resumé{{< /staticref >}}
