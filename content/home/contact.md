@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   email: michal.pawlowski@mimuw.edu.pl
   address:
-    street: Faculty of Mathematics, Informatics, and Mechanics,<br/>University of Warsaw,<br/>Banacha 2
+    street: Faculty of Mathematics, Informatics, and Mechanics<br/>University of Warsaw<br/>Banacha 2
     city: '02-097 Warszawa'
     postcode: 'Poland'
   # appointment_url: 'https://calendly.com'
