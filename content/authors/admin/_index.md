@@ -64,15 +64,15 @@ social:
     label: Send me an email
     # display:
     #   header: true
-  - icon: twitter
-    icon_pack: fab
-    link: '/#'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: '/#'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: '/#'
-  - icon: github
-    icon_pack: fab
-    link: '/#'
+    link: https://scholar.google.com/citations?hl=en&user=1r2fo_0AAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: '/#'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michal-pawlowski-mp/
@@ -93,7 +93,7 @@ highlight_name: true
 
 I am pursuing a PhD degree in Computer Science. This part of my academic journey began two years ago when I got accepted to the [Doctoral School](https://szkolydoktorskie.uw.edu.pl/en/sdnsip-2/) of the [University of Warsaw](https://en.uw.edu.pl/). A year later, I joined the [Sapienza University of Rome](https://www.uniroma1.it/en/) as a PhD student at the [Department of Computer, Control and Management Engineering](https://www.diag.uniroma1.it/en/). Since then, I have been on a joint PhD program between both universities. My supervisors are Prof. [Piotr Sankowski]() and Prof. [Stefano Leonardi](). Besides working in academia, I am a Doctoral Researcher at [IDEAS NCBR](https://ideas-ncbr.pl/en/) in the [Intelligent Algorithms and Data Structures](https://ideas-ncbr.pl/en/badania/intelligent-algorithms-and-learned-data-structures/) group.
 
-Before that, I graduated with honors with a master's diploma in Computer Science from the University of Warsaw. I wrote my thesis under the supervision of [Marek Adamczyk](https://mad.cs.uni.wroc.pl/) ([University of Wrocław](https://uwr.edu.pl/en/)). Two years prior, I obtained a double bachelor's degree in Computer Science and Mathematics (also with honors) from the same university. My advisors were Prof. [Adam Osękowski](https://www.mimuw.edu.pl/~ados/index.html) and Prof. [Janusz Jabłonowski](https://mimuw.edu.pl/~janusz/).
+Before that, I graduated with honors with a master's diploma in Computer Science from the University of Warsaw. I wrote my thesis under the supervision of Dr. [Marek Adamczyk](https://mad.cs.uni.wroc.pl/) ([University of Wrocław](https://uwr.edu.pl/en/)). Two years prior, I obtained a double bachelor's degree in Computer Science and Mathematics (with honors) from the same university. My advisors were Prof. [Adam Osękowski](https://www.mimuw.edu.pl/~ados/index.html) and Dr. [Janusz Jabłonowski](https://mimuw.edu.pl/~janusz/).
 
 My research interests lie in the area of approximation algorithms for optimization under uncertainty. The main problems I have worked on so far revolved around prophet inequalities and online problems with delays. However, during my stay at Sapienza, I also became interested in algorithmic game theory and mechanism design. I love broadening my knowledge and experience.
 
