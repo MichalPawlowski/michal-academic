@@ -28,8 +28,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems*
-publication_short: In *AAMAS '23*
+publication: In *Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems* **(AAMAS '23)**
+publication_short: In *Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems* **(AAMAS '23)**
 
 abstract: ''
 
