@@ -50,7 +50,7 @@ links:
 - name: Slides
   url: '/publications/slides/01_slides.ppsx'
 - name: Animation
-  url: 'https://www.youtube.com/watch?v=kdyO0xNW_Jc'
+  url: 'https://www.youtube.com/embed/kdyO0xNW_Jc'
 - name: Detailed Slides
   url: '/publications/slides/01_detailed_slides.pdf'
 
