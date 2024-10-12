@@ -45,6 +45,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2210.0701
+- name: Poster
+  url: '/uploads/teaching/22-23/asd/22_23_ASD_12_problem_set_PL.pdf'
 
 url_pdf: ''
 url_code: ''
