@@ -49,7 +49,7 @@ links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: '/uploads/teaching/22-23/asd/22_23_ASD_12_problem_set_PL.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -57,8 +57,9 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+# Old caption: Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
