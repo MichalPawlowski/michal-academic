@@ -48,7 +48,7 @@ links:
 - name: Poster
   url: '/publications/posters/01_poster.pdf'
 - name: Slides
-  url: '/publications/slides/01_slides.pdf'
+  url: '/publications/slides/01_slides.ppsx'
 - name: Animation
   url: 'https://www.youtube.com/watch?v=kdyO0xNW_Jc'
 - name: Detailed Slides
