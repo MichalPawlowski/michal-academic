@@ -44,14 +44,14 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2210.0701
+  url: https://arxiv.org/abs/2210.07018
 - name: Poster
-  url: '/uploads/teaching/22-23/asd/22_23_ASD_12_problem_set_PL.pdf'
+  url: '/publications/posters/01_poster.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: '/uploads/teaching/22-23/asd/22_23_ASD_12_problem_set_PL.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
