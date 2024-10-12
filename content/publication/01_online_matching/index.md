@@ -47,6 +47,12 @@ links:
   url: https://arxiv.org/abs/2210.07018
 - name: Poster
   url: '/publications/posters/01_poster.pdf'
+- name: Slides
+  url: '/publications/slides/01_slides.pdf'
+- name: Animation
+  url: 'https://www.youtube.com/watch?v=kdyO0xNW_Jc'
+- name: Detailed Slides
+  url: '/publications/slides/01_detailed_slides.pdf'
 
 url_pdf: ''
 url_code: ''
