@@ -34,7 +34,7 @@ publication_short: In *Proceedings of the 2023 International Conference on Auton
 abstract: """
 Consider a platform where independent agents arrive at random times and need to be matched into pairs, eventually after waiting for some time.
 This, for example, models job markets, gaming platforms, kidney exchange programs, etc.
-The role of the platform is to decide how to match agents together while optimizing two conflicting objectives: the quality of the matching produced, and the total waiting time of the agents.
+The role of the platform is to decide how to match agents together while optimizing two conflicting objectives the quality of the matching produced, and the total waiting time of the agents.
 This can be modeled as an online problem called Min-cost Perfect Matching with Delays (MPMD), which has recently drawn a lot of attention.
 It is known that in the case when agents arrive in an adversarial order, no online algorithm can achieve a constant-competitive ratio.
 
