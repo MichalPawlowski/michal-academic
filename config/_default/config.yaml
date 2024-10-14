@@ -32,7 +32,7 @@ module:
 
 enableGitInfo: true
 summaryLength: 30
-paginate: pagination.pagerSize
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
