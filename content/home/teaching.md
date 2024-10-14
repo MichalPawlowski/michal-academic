@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
+## Winter semester, 2024/25
+
+{{< icon name="fa-regular fa-book" pack="fa" >}} [Linear Algebra (PL)]({{< ref "teaching/24-25-al.md" >}})
+
 ## Winter semester, 2023/24
 
 {{< icon name="fa-regular fa-book" pack="fa" >}} [Linear Algebra (PL)]({{< ref "teaching/23-24-al.md" >}})
