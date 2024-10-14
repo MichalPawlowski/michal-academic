@@ -35,7 +35,7 @@ abstract: '<p> Consider a platform where independent agents arrive at random tim
 
 
 # Summary. An optional shortened abstract.
-summary: 'Great paper!'
+summary: ''
 
 tags: []
 
