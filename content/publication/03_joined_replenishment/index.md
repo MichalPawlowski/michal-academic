@@ -49,7 +49,7 @@ links:
 - name: PDF
   url: '/publications/pdfs/03_publication.pdf'
 - name: Full Paper
-  url: '/publications/pdfs/03_publication.pdf'
+  url: '/publications/pdfs/03_full_paper.pdf'
 # - name: Poster
 #   url: ''
 # - name: Animation
