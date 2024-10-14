@@ -44,7 +44,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2210.07018
+  url: https://arxiv.org/abs/2404.09711
 - name: PDF
   url: '/publications/pdfs/02_publication.pdf'
 # - name: Full Paper
@@ -55,8 +55,8 @@ links:
 #   url: ''
 # - name: Slides
 #   url: ''
-- name: Detailed Slides
-  url: '/publications/slides/02_detailed_slides.pdf'
+# - name: Detailed Slides
+#   url: ''
 
 url_pdf: ''
 url_code: ''

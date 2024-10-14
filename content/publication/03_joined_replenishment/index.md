@@ -1,21 +1,22 @@
 ---
-title: 'Online Matching with Delays and Stochastic Arrival Times'
+title: 'Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Mathieu Mari
+  - Tomer Ezra
+  - Stefano Leonardi
   - admin
-  - Runtian Ren
-  - Piotr Sankowski
+  - Matteo Russo
+  - Seeun William Umboh
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-06-01T00:00:00Z'
+date: '2024-08-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -45,15 +46,19 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2210.07018
-- name: Poster
-  url: '/publications/posters/01_poster.pdf'
-- name: Animation
-  url: 'https://www.youtube.com/embed/kdyO0xNW_Jc'
+  url: https://arxiv.org/abs/2407.15809
+- name: PDF
+  url: '/publications/pdfs/03_publication.pdf'
+- name: Full Paper
+  url: '/publications/pdfs/03_publication.pdf'
+# - name: Poster
+#   url: ''
+# - name: Animation
+#   url: ''
 - name: Slides
-  url: '/publications/slides/01_slides.ppsx'
-- name: Detailed Slides
-  url: '/publications/slides/01_detailed_slides.pdf'
+  url: '/publications/slides/03_slides.pdf'
+# - name: Detailed Slides
+#   url: '/publications/slides/03_detailed_slides.pdf'
 
 url_pdf: ''
 url_code: ''
