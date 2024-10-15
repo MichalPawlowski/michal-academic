@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://MichalPawlowski.github.io/michal-academic/sitemap.xml
+Sitemap: https://michalpawlowski.github.io/michal-academic/sitemap.xml
