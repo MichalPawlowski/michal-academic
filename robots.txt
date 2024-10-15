@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://www.mimuw.edu.pl/~mp371303/sitemap.xml
