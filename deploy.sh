@@ -23,4 +23,5 @@ git add .
 git commit -m "Deploy at $(date '+%Y-%m-%d %H:%M:%S')"
 
 # Push to the `gh-pages` branch
-git push origin gh-pages
+# git push origin gh-pages
+git push --force "https://${GITHUB_TOKEN}@github.com/MichalPawlowski/michal-academic.git" master:gh-pages
