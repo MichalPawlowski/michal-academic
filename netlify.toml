@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify -b $URL && bash ./deploy.sh"
   publish = "public"
 
 [build.environment]
