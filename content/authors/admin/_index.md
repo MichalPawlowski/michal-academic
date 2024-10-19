@@ -101,7 +101,7 @@ My research interests lie in the area of approximation algorithms for optimizati
 I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/). -->
 
 <div style="float: left;">
-  {{< cta cta_text="Download Résumé" cta_link="uploads/michal_pawlowski_cv.pdf" cta_icon="fas fa-download" class="cta-button" >}}
+  {{< button text="Download Résumé" icon="download" icon_pack="fas" link="uploads/michal_pawlowski_cv.pdf" class="custom-button" >}}
 </div>
 
 <div style="float: right;">

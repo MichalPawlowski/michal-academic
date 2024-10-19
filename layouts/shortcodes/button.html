@@ -2,11 +2,11 @@
 {{ $link := .Get "link" | default "#" }}
 {{ $icon := .Get "icon" | default "" }}
 {{ $icon_pack := .Get "icon_pack" | default "fas" }}
-{{ $style := .Get "style" | default "" }}
+{{ $class := .Get "class" | default "custom-button" }}
 
-<a href="{{ $link }}" class="btn btn-primary" style="{{ $style }}">
+<a href="{{ $link }}" class="{{ $class }}">
   {{ if $icon }}
-    <i class="{{ $icon_pack }} fa-{{ $icon }}" style="margin-right: 8px;"></i>
+    <i class="{{ $icon_pack }} fa-{{ $icon }}"></i>
   {{ end }}
   {{ $text }}
 </a>
