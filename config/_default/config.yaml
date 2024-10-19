@@ -58,6 +58,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+params:
+  ui:
+    theme_mode: 'light'  # Options: 'light', 'dark', or 'auto'
 related:
   threshold: 80
   includeNewer: true
