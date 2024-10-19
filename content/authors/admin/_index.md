@@ -100,4 +100,14 @@ My research interests lie in the area of approximation algorithms for optimizati
 <!-- I am a second year PhD student at [Institute of Informatics, University of Warsaw](https://www.mimuw.edu.pl/). <br/>
 I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/). -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}CV{{< /staticref >}} *(last update: September 2022)*.
+<div style="float: left;">
+  {{< button text="Download Résumé" icon="download" icon_pack="fas" link="uploads/michal_pawlowski_cv.pdf" >}}
+</div>
+
+<div style="float: right;">
+  *Last updated: October 2023*
+</div>
+
+<div style="clear: both;"></div>
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/michal_pawlowski_cv.pdf" "newtab" >}}CV{{< /staticref >}} *(last update: September 2022)*. -->
