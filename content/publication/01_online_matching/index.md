@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems* **(AAMAS '23)**
 publication_short: In *Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems* **(AAMAS '23)**
 
-abstract: '<p> Consider a platform where independent agents arrive at random times and need to be matched into pairs, eventually after waiting for some time. This, for example, models job markets, gaming platforms, kidney exchange programs, etc. The role of the platform is to decide how to match agents together while optimizing two conflicting objectives: the quality of the matching produced, and the total waiting time of the agents. This can be modeled as an online problem called Min-cost Perfect Matching with Delays (MPMD), which has recently drawn a lot of attention. It is known that in the case when agents&#39; arrive in an adversarial order, no online algorithm can achieve a constant-competitive ratio. <p> In this paper, we study the more realistic case where agents arrival times follow some stochastic assumptions, and we present two matching mechanisms, which give constant-competitive solutions. The first one is a simple greedy algorithm in which agents act in a distributed manner requiring only local communication. The second one builds global analysis tools in order to obtain even better performance guarantees. This result is rather surprising as the greedy approach cannot achieve a competitive ratio better than $O(m^{\log 1.5 + \varepsilon})$ in the adversarial model, where $m$ denotes the number of agents. Finally, we extend our results to the case where the delay cost corresponds to an arbitrary positive and non-decreasing function of the waiting time, as well as the case where the platform is allowed to pay a penalty cost to clear some agents&#39; requests. {{< youtube kdyO0xNW_Jc >}}'
+abstract: '<p> Consider a platform where independent agents arrive at random times and need to be matched into pairs, eventually after waiting for some time. This, for example, models job markets, gaming platforms, kidney exchange programs, etc. The role of the platform is to decide how to match agents together while optimizing two conflicting objectives: the quality of the matching produced, and the total waiting time of the agents. This can be modeled as an online problem called Min-cost Perfect Matching with Delays (MPMD), which has recently drawn a lot of attention. It is known that in the case when agents&#39; arrive in an adversarial order, no online algorithm can achieve a constant-competitive ratio. <p> In this paper, we study the more realistic case where agents arrival times follow some stochastic assumptions, and we present two matching mechanisms, which give constant-competitive solutions. The first one is a simple greedy algorithm in which agents act in a distributed manner requiring only local communication. The second one builds global analysis tools in order to obtain even better performance guarantees. This result is rather surprising as the greedy approach cannot achieve a competitive ratio better than $O(m^{\log 1.5 + \varepsilon})$ in the adversarial model, where $m$ denotes the number of agents. Finally, we extend our results to the case where the delay cost corresponds to an arbitrary positive and non-decreasing function of the waiting time, as well as the case where the platform is allowed to pay a penalty cost to clear some agents&#39; requests.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,6 +40,9 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: false
+
+# Add this line to enable content rendering
+render_content: true
 
 # Custom links (uncomment lines below)
 links:
@@ -89,6 +92,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
+
+{{< youtube kdyO0xNW_Jc >}}
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
