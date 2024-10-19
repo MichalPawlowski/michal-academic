@@ -52,7 +52,7 @@ links:
 - name: Poster
   url: '/publications/posters/01_poster.pdf'
 - name: Animation
-  url: 'https://www.youtube.com/embed/kdyO0xNW_Jc'
+  url: 'https://www.youtube.com/watch?v=kdyO0xNW_Jc'
 - name: Slides
   url: '/publications/slides/01_slides.ppsx'
 - name: Detailed Slides
@@ -89,6 +89,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ''
 ---
+
+{{< youtube kdyO0xNW_Jc >}}
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
