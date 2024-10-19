@@ -1,20 +1,30 @@
-/* Define color variables */
+/* Default variables (used when no preference is specified or browser doesn't support prefers-color-scheme) */
 :root {
+  --button-border-color: #1564c0; /* Darker blue */
+  --button-text-color: #1564c0;    /* Darker blue */
+  --button-hover-bg-color: #1564c0;
+  --button-hover-text-color: #bbddfb; /* Lighter blue */
+}
+
+/* Light mode variables */
+@media (prefers-color-scheme: light) {
+  :root {
     --button-border-color: #1564c0; /* Darker blue */
-    --button-text-color: #1564c0;
-    --button-hover-bg-color: #1564c0; /* Darker blue */
-    --button-hover-text-color: #fafdff; /* Lighter blue */
+    --button-text-color: #1564c0;    /* Darker blue */
+    --button-hover-bg-color: #1564c0;
+    --button-hover-text-color: #bbddfb; /* Lighter blue */
   }
-  
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --button-border-color: #1564c0; /* Same border color */
-      --button-text-color: #bbddfb; /* Lighter blue */
-      --button-hover-bg-color: #1564c0; /* Darker blue */
-      --button-hover-text-color: #fafdff; /* White text on hover */
-    }
+}
+
+/* Dark mode variables */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --button-border-color: #1564c0;    /* Darker blue */
+    --button-text-color: #bbddfb;      /* Lighter blue */
+    --button-hover-bg-color: #1564c0;
+    --button-hover-text-color: #ffffff; /* White */
   }
-  
+}
 
 /* Custom Button Styles */
 .custom-button {
