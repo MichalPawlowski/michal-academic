@@ -1,0 +1,12 @@
+{{ $text := .Get "text" | default "" }}
+{{ $link := .Get "link" | default "#" }}
+{{ $icon := .Get "icon" | default "" }}
+{{ $icon_pack := .Get "icon_pack" | default "fas" }}
+{{ $style := .Get "style" | default "" }}
+
+<a href="{{ $link }}" class="btn btn-primary" style="{{ $style }}">
+  {{ if $icon }}
+    <i class="{{ $icon_pack }} fa-{{ $icon }}" style="margin-right: 8px;"></i>
+  {{ end }}
+  {{ $text }}
+</a>
