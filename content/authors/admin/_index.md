@@ -105,7 +105,7 @@ I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/). -->
     {{< button text="Download Résumé" icon="download" icon_pack="fas" link="uploads/michal_pawlowski_cv.pdf" class="custom-button" >}}
   </div>
   <div>
-    <em>Last updated: October 2023</em>
+    <em>Last updated: October 2023&nbsp;</em>
   </div>
 </div>
 

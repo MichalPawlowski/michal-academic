@@ -1,56 +1,41 @@
-/* Default variables (used when no preference is specified or browser doesn't support prefers-color-scheme) */
+/* Define the button colors directly under :root */
 :root {
-  --button-border-color: #1564c0; /* Darker blue */
-  --button-text-color: #1564c0;    /* Darker blue */
+  --button-border-color: #1564c0;     /* Darker blue */
+  --button-text-color: #1564c0;       /* Darker blue */
   --button-hover-bg-color: #1564c0;
   --button-hover-text-color: #bbddfb; /* Lighter blue */
 }
 
-/* Light mode variables */
-@media (prefers-color-scheme: light) {
-  :root {
-    --button-border-color: #1564c0; /* Darker blue */
-    --button-text-color: #1564c0;    /* Darker blue */
-    --button-hover-bg-color: #1564c0;
-    --button-hover-text-color: #bbddfb; /* Lighter blue */
-  }
-}
-
-/* Dark mode variables */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --button-border-color: #1564c0;    /* Darker blue */
-    --button-text-color: #bbddfb;      /* Lighter blue */
-    --button-hover-bg-color: #1564c0;
-    --button-hover-text-color: #ffffff; /* White */
-  }
-}
-
 /* Custom Button Styles */
 .custom-button {
-    display: inline-flex;
-    align-items: center;
-    padding: 6px 12px; /* Reduced padding */
-    border: 1px solid var(--button-border-color);
-    background-color: transparent;
-    color: var(--button-text-color);
-    text-decoration: none;
-    border-radius: 4px; /* Adjusted border radius */
-    font-size: 14px; /* Reduced font size */
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  .custom-button i {
-    color: inherit;
-    margin-right: 6px; /* Adjusted margin */
-  }
-  
-  .custom-button:hover {
-    background-color: var(--button-hover-bg-color);
-    color: var(--button-hover-text-color);
-  }
-  
-  .custom-button:hover i {
-    color: var(--button-hover-text-color);
-  }
-  
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  border: 1px solid var(--button-border-color);
+  background-color: transparent;
+  color: var(--button-text-color);
+  text-decoration: none;
+  border-radius: 3px;
+  font-size: 13px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.custom-button i {
+  color: inherit;
+  margin-right: 6px;
+}
+
+.custom-button:hover {
+  background-color: var(--button-hover-bg-color);
+  color: var(--button-hover-text-color);
+}
+
+.custom-button:hover i {
+  color: var(--button-hover-text-color);
+}
+
+/* Focus State for Accessibility */
+.custom-button:focus {
+  outline: 2px dashed var(--button-border-color);
+  outline-offset: 2px;
+}
