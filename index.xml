@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michał Pawłowski</title><link>https://michalpawlowski.github.io/michal-academic/</link><atom:link href="https://michalpawlowski.github.io/michal-academic/index.xml" rel="self" type="application/rss+xml"/><description>Michał Pawłowski</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://michalpawlowski.github.io/michal-academic/media/icon_hu2b10f3510a97b8d333ea67857d2f1492_2672_512x512_fill_lanczos_center_3.png</url><title>Michał Pawłowski</title><link>https://michalpawlowski.github.io/michal-academic/</link></image><item><title>Example Talk</title><link>https://michalpawlowski.github.io/michal-academic/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michał Pawłowski</title><link>https://www.mimuw.edu.pl/~mp371303/</link><atom:link href="https://www.mimuw.edu.pl/~mp371303/index.xml" rel="self" type="application/rss+xml"/><description>Michał Pawłowski</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://www.mimuw.edu.pl/~mp371303/media/icon_hu2b10f3510a97b8d333ea67857d2f1492_2672_512x512_fill_lanczos_center_3.png</url><title>Michał Pawłowski</title><link>https://www.mimuw.edu.pl/~mp371303/</link></image><item><title>Example Talk</title><link>https://www.mimuw.edu.pl/~mp371303/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Online Matching with Delays and Stochastic Arrival Times</title><link>https://michalpawlowski.github.io/michal-academic/publication/04_online_multi_level_aggregation/</link><pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/publication/04_online_multi_level_aggregation/</guid><description>&lt;!--
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Online Matching with Delays and Stochastic Arrival Times</title><link>https://www.mimuw.edu.pl/~mp371303/publication/04_online_multi_level_aggregation/</link><pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/04_online_multi_level_aggregation/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -20,7 +20,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment</title><link>https://michalpawlowski.github.io/michal-academic/publication/03_joined_replenishment/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/publication/03_joined_replenishment/</guid><description>&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment</title><link>https://www.mimuw.edu.pl/~mp371303/publication/03_joined_replenishment/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/03_joined_replenishment/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -31,7 +31,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Multi-Level Aggregation with Delays and Stochastic Arrivals</title><link>https://michalpawlowski.github.io/michal-academic/publication/02_multi_level_aggregation/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/publication/02_multi_level_aggregation/</guid><description>&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Multi-Level Aggregation with Delays and Stochastic Arrivals</title><link>https://www.mimuw.edu.pl/~mp371303/publication/02_multi_level_aggregation/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/02_multi_level_aggregation/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -42,7 +42,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Online Matching with Delays and Stochastic Arrival Times</title><link>https://michalpawlowski.github.io/michal-academic/publication/01_online_matching/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/publication/01_online_matching/</guid><description>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Online Matching with Delays and Stochastic Arrival Times</title><link>https://www.mimuw.edu.pl/~mp371303/publication/01_online_matching/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/01_online_matching/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/kdyO0xNW_Jc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
@@ -57,7 +57,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://michalpawlowski.github.io/michal-academic/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://www.mimuw.edu.pl/~mp371303/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
@@ -113,7 +113,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://michalpawlowski.github.io/michal-academic/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://www.mimuw.edu.pl/~mp371303/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
 &lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
 &lt;h2 id="examples">Examples&lt;/h2>
@@ -204,7 +204,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-598347261" class="chart">&lt;/div>
+&lt;div id="chart-568219473" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -213,7 +213,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-598347261', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-568219473', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -426,7 +426,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 &lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
 &lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
 &lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
-&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://michalpawlowski.github.io/michal-academic/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/post/jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://www.mimuw.edu.pl/~mp371303/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/post/jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
 &lt;figure >
@@ -461,7 +461,7 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 &lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class="o">=&lt;/span>.
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
-&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://michalpawlowski.github.io/michal-academic/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://www.mimuw.edu.pl/~mp371303/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -572,76 +572,76 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://michalpawlowski.github.io/michal-academic/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://www.mimuw.edu.pl/~mp371303/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>External Project</title><link>https://michalpawlowski.github.io/michal-academic/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/project/external-project/</guid><description/></item><item><title/><link>https://michalpawlowski.github.io/michal-academic/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/admin/config.yml</guid><description/></item><item><title>Algebra liniowa, semestr zimowy, 2023/24</title><link>https://michalpawlowski.github.io/michal-academic/teaching/23-24-al/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/teaching/23-24-al/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=516337&amp;amp;gr_nr=2" target="_blank" rel="noopener">grupa nr 2&lt;/a>, poniedziałki 12:15, sala 5840&lt;/p>
-&lt;p>&lt;strong>Konsultacje&lt;/strong>: proszę o wcześniejszy kontakt &lt;a href="https://michalpawlowski.github.io/michal-academic/#contact">mailowy&lt;/a>&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>External Project</title><link>https://www.mimuw.edu.pl/~mp371303/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/project/external-project/</guid><description/></item><item><title/><link>https://www.mimuw.edu.pl/~mp371303/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/admin/config.yml</guid><description/></item><item><title>Algebra liniowa, semestr zimowy, 2023/24</title><link>https://www.mimuw.edu.pl/~mp371303/teaching/23-24-al/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/teaching/23-24-al/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=516337&amp;amp;gr_nr=2" target="_blank" rel="noopener">grupa nr 2&lt;/a>, poniedziałki 12:15, sala 5840&lt;/p>
+&lt;p>&lt;strong>Konsultacje&lt;/strong>: proszę o wcześniejszy kontakt &lt;a href="https://www.mimuw.edu.pl/~mp371303/#contact">mailowy&lt;/a>&lt;/p>
 &lt;p>&lt;strong>Ankieta&lt;/strong>: zachęcam do dzielenia się &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdOA7bJt2PqnyIN0sr0Bu0xPOM1CHjm6XaBhRprT5atanZglw/viewform?usp=sf_link" target="_blank" rel="noopener">uwagami na temat ćwiczeń&lt;/a>&lt;/p>
 &lt;h2 id="ćwiczenia-1-09-10-2023">Ćwiczenia 1 (09-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 1): 6-10, 12, 14,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_1_15_PL.pdf" target="_blank"> 15 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_1_15_PL.pdf" target="_blank"> 15 &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-2-16-10-2023">Ćwiczenia 2 (16-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 2): 1-3,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_2_4_PL.pdf" target="_blank"> 4 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_2_4_PL.pdf" target="_blank"> 4 &lt;/a>
 , 5,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_2_6_PL.pdf" target="_blank"> 6 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_2_6_PL.pdf" target="_blank"> 6 &lt;/a>
 , 9,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_2_12_PL.pdf" target="_blank"> 12 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_2_12_PL.pdf" target="_blank"> 12 &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_homework_2_PL.pdf" target="_blank"> zadania domowe &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_homework_2_PL.pdf" target="_blank"> zadania domowe &lt;/a>
 (nieobowiązkowe)&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-3-23-10-2023">Ćwiczenia 3 (23-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 3): 6, 7,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_3_8_PL.pdf" target="_blank"> 8 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_3_8_PL.pdf" target="_blank"> 8 &lt;/a>
 , 10, 14&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-4-06-11-2023">Ćwiczenia 4 (06-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 4): 1, 2,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_4_4_PL.pdf" target="_blank"> 4 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_4_4_PL.pdf" target="_blank"> 4 &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_homework_4_PL.pdf" target="_blank"> zadania domowe &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_homework_4_PL.pdf" target="_blank"> zadania domowe &lt;/a>
 (nieobowiązkowe)&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-5-13-11-2023">Ćwiczenia 5 (13-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 5): 1, 4,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_5_5_PL.pdf" target="_blank"> 5 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_5_5_PL.pdf" target="_blank"> 5 &lt;/a>
 (częściowo)&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-6-20-11-2023">Ćwiczenia 6 (20-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 6): 1,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_6_2_PL.pdf" target="_blank"> 2 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_6_2_PL.pdf" target="_blank"> 2 &lt;/a>
 ,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_6_4_PL.pdf" target="_blank"> 4 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_6_4_PL.pdf" target="_blank"> 4 &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-7-20-11-2023-dodatkowe">Ćwiczenia 7 (20-11-2023) (dodatkowe)&lt;/h2>
 &lt;ul>
 &lt;li>powtórka przed kolokwium&lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_midterm_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_midterm_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
 &lt;/li>
 &lt;li>omówione:
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_6_5_PL.pdf" target="_blank"> 6.5 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_6_5_PL.pdf" target="_blank"> 6.5 &lt;/a>
 i 4, 6 z przygotowawczych&lt;/li>
 &lt;/ul>
 &lt;!-- - od 14:15 do 16:00 w tej samej sali co ćwiczenia -->
 &lt;h2 id="ćwiczenia-8-27-11-2023">Ćwiczenia 8 (27-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione:
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_midterm_exam_PL.pdf" target="_blank"> zadania z kolokwium &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_midterm_exam_PL.pdf" target="_blank"> zadania z kolokwium &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-9-04-12-2023">Ćwiczenia 9 (04-12-2023)&lt;/h2>
@@ -651,26 +651,26 @@ i 4, 6 z przygotowawczych&lt;/li>
 &lt;h2 id="ćwiczenia-10-18-12-2023">Ćwiczenia 10 (18-12-2023)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 8):
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_8_1_PL.pdf" target="_blank"> 1 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_8_1_PL.pdf" target="_blank"> 1 &lt;/a>
 ,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_8_2_PL.pdf" target="_blank"> 2 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_8_2_PL.pdf" target="_blank"> 2 &lt;/a>
 &lt;/li>
 &lt;li>zadania domowe (seria 8):
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_8_3_PL.pdf" target="_blank"> 3 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_8_3_PL.pdf" target="_blank"> 3 &lt;/a>
 , 4&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-11-08-01-2024">Ćwiczenia 11 (08-01-2024)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 8): 7, (seria 9): 2,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_9_3_PL.pdf" target="_blank"> 3 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_9_3_PL.pdf" target="_blank"> 3 &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-12-15-01-2024">Ćwiczenia 12 (15-01-2024)&lt;/h2>
 &lt;ul>
 &lt;li>omówione (seria 10): 3, 4, 5,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_10_6_PL.pdf" target="_blank"> 6 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_10_6_PL.pdf" target="_blank"> 6 &lt;/a>
 ,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_10_7_PL.pdf" target="_blank"> 7 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_10_7_PL.pdf" target="_blank"> 7 &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-13-22-01-2024">Ćwiczenia 13 (22-01-2024)&lt;/h2>
@@ -681,14 +681,14 @@ i 4, 6 z przygotowawczych&lt;/li>
 &lt;ul>
 &lt;li>powtórka przed egzaminem&lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_exam_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_exam_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
 &lt;/li>
 &lt;li>omówione: 1, 3, 4, 5,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_exam_prep_6_PL.pdf" target="_blank"> 6 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_exam_prep_6_PL.pdf" target="_blank"> 6 &lt;/a>
 &lt;/li>
 &lt;/ul>
-&lt;!-- - od 14:00 w sali 3260 --></description></item><item><title>Algebra liniowa, semestr zimowy, 2024/25</title><link>https://michalpawlowski.github.io/michal-academic/teaching/24-25-al/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/teaching/24-25-al/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=539777&amp;amp;gr_nr=2" target="_blank" rel="noopener">grupa nr 2&lt;/a>, poniedziałki 8:30, sala 3220&lt;/p>
-&lt;p>&lt;strong>Konsultacje&lt;/strong>: poniedziałki 14:00-16:00 lub indywidualnie uzgodniony termin, w obu przypadkach proszę o wcześniejszy kontakt &lt;a href="https://michalpawlowski.github.io/michal-academic/#contact">mailowy&lt;/a>&lt;/p>
+&lt;!-- - od 14:00 w sali 3260 --></description></item><item><title>Algebra liniowa, semestr zimowy, 2024/25</title><link>https://www.mimuw.edu.pl/~mp371303/teaching/24-25-al/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/teaching/24-25-al/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=539777&amp;amp;gr_nr=2" target="_blank" rel="noopener">grupa nr 2&lt;/a>, poniedziałki 8:30, sala 3220&lt;/p>
+&lt;p>&lt;strong>Konsultacje&lt;/strong>: poniedziałki 14:00-16:00 lub indywidualnie uzgodniony termin, w obu przypadkach proszę o wcześniejszy kontakt &lt;a href="https://www.mimuw.edu.pl/~mp371303/#contact">mailowy&lt;/a>&lt;/p>
 &lt;p>&lt;strong>Ankieta&lt;/strong>: zachęcam do dzielenia się &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfSoMb8Fyt6cVvc0bmzPR_cv38ibVP3MYOKfQvMBZvOqDjJ5A/viewform?usp=sf_link" target="_blank" rel="noopener">uwagami na temat ćwiczeń&lt;/a>&lt;/p>
 &lt;h2 id="ćwiczenia-1-07-10-2024">Ćwiczenia 1 (07-10-2024)&lt;/h2>
 &lt;ul>
@@ -697,79 +697,79 @@ i 4, 6 z przygotowawczych&lt;/li>
 &lt;h2 id="ćwiczenia-2-14-10-2024">Ćwiczenia 2 (14-10-2024)&lt;/h2>
 &lt;ul>
 &lt;li>omówione: 1.1, 1.3-5, 1.9,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/24-25/al/24_25_AL_solution_1_15_PL.pdf" target="_blank"> 1.15 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/24-25/al/24_25_AL_solution_1_15_PL.pdf" target="_blank"> 1.15 &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;!-- ## Ćwiczenia 2 (16-10-2023)
 - omówione (seria 2): 1-3,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_2_4_PL.pdf" target="_blank"> 4 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_2_4_PL.pdf" target="_blank"> 4 &lt;/a>
 , 5,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_2_6_PL.pdf" target="_blank"> 6 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_2_6_PL.pdf" target="_blank"> 6 &lt;/a>
 , 9,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_2_12_PL.pdf" target="_blank"> 12 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_2_12_PL.pdf" target="_blank"> 12 &lt;/a>
 -
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_homework_2_PL.pdf" target="_blank"> zadania domowe &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_homework_2_PL.pdf" target="_blank"> zadania domowe &lt;/a>
 (nieobowiązkowe)
 ## Ćwiczenia 3 (23-10-2023)
 - omówione (seria 3): 6, 7,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_3_8_PL.pdf" target="_blank"> 8 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_3_8_PL.pdf" target="_blank"> 8 &lt;/a>
 , 10, 14
 ## Ćwiczenia 4 (06-11-2023)
 - omówione (seria 4): 1, 2,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_4_4_PL.pdf" target="_blank"> 4 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_4_4_PL.pdf" target="_blank"> 4 &lt;/a>
 -
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_homework_4_PL.pdf" target="_blank"> zadania domowe &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_homework_4_PL.pdf" target="_blank"> zadania domowe &lt;/a>
 (nieobowiązkowe)
 ## Ćwiczenia 5 (13-11-2023)
 - omówione (seria 5): 1, 4,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_5_5_PL.pdf" target="_blank"> 5 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_5_5_PL.pdf" target="_blank"> 5 &lt;/a>
 (częściowo)
 ## Ćwiczenia 6 (20-11-2023)
 - omówione (seria 6): 1,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_6_2_PL.pdf" target="_blank"> 2 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_6_2_PL.pdf" target="_blank"> 2 &lt;/a>
 ,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_6_4_PL.pdf" target="_blank"> 4 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_6_4_PL.pdf" target="_blank"> 4 &lt;/a>
 ## Ćwiczenia 7 (20-11-2023) (dodatkowe)
 - powtórka przed kolokwium
 -
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_midterm_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_midterm_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
 - omówione:
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_6_5_PL.pdf" target="_blank"> 6.5 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_6_5_PL.pdf" target="_blank"> 6.5 &lt;/a>
 i 4, 6 z przygotowawczych -->
 &lt;!-- - od 14:15 do 16:00 w tej samej sali co ćwiczenia -->
 &lt;!-- ## Ćwiczenia 8 (27-11-2023)
 - omówione:
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_midterm_exam_PL.pdf" target="_blank"> zadania z kolokwium &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_midterm_exam_PL.pdf" target="_blank"> zadania z kolokwium &lt;/a>
 ## Ćwiczenia 9 (04-12-2023)
 - omówione (seria 7): 2-5, 7, 9, 13
 ## Ćwiczenia 10 (18-12-2023)
 - omówione (seria 8):
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_8_1_PL.pdf" target="_blank"> 1 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_8_1_PL.pdf" target="_blank"> 1 &lt;/a>
 ,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_8_2_PL.pdf" target="_blank"> 2 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_8_2_PL.pdf" target="_blank"> 2 &lt;/a>
 - zadania domowe (seria 8):
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_8_3_PL.pdf" target="_blank"> 3 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_8_3_PL.pdf" target="_blank"> 3 &lt;/a>
 , 4
 ## Ćwiczenia 11 (08-01-2024)
 - omówione (seria 8): 7, (seria 9): 2,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_9_3_PL.pdf" target="_blank"> 3 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_9_3_PL.pdf" target="_blank"> 3 &lt;/a>
 ## Ćwiczenia 12 (15-01-2024)
 - omówione (seria 10): 3, 4, 5,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_10_6_PL.pdf" target="_blank"> 6 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_10_6_PL.pdf" target="_blank"> 6 &lt;/a>
 ,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_10_7_PL.pdf" target="_blank"> 7 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_10_7_PL.pdf" target="_blank"> 7 &lt;/a>
 ## Ćwiczenia 13 (22-01-2024)
 - omówione (seria 11): 1, (seria 12): 1, 3
 ## Ćwiczenia 14 (29-01-2024) (dodatkowe)
 - powtórka przed egzaminem
 -
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_exam_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_exam_prep_PL.pdf" target="_blank"> zadania przygotowawcze &lt;/a>
 - omówione: 1, 3, 4, 5,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/al/23_24_AL_solution_exam_prep_6_PL.pdf" target="_blank"> 6 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/al/23_24_AL_solution_exam_prep_6_PL.pdf" target="_blank"> 6 &lt;/a>
 -->
-&lt;!-- - od 14:00 w sali 3260 --></description></item><item><title>Algorytmy i Struktury Danych, semestr zimowy, 2022/23</title><link>https://michalpawlowski.github.io/michal-academic/teaching/22-23-asd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/teaching/22-23-asd/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=486028&amp;amp;gr_nr=7" target="_blank" rel="noopener">grupa nr 7&lt;/a>, środy 16:00, sala 3120&lt;/p>
+&lt;!-- - od 14:00 w sali 3260 --></description></item><item><title>Algorytmy i Struktury Danych, semestr zimowy, 2022/23</title><link>https://www.mimuw.edu.pl/~mp371303/teaching/22-23-asd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/teaching/22-23-asd/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=486028&amp;amp;gr_nr=7" target="_blank" rel="noopener">grupa nr 7&lt;/a>, środy 16:00, sala 3120&lt;/p>
 &lt;!--
-**Konsultacje**: proszę o wcześniejszy kontakt [mailowy](https://michalpawlowski.github.io/michal-academic/#contact)
+**Konsultacje**: proszę o wcześniejszy kontakt [mailowy](https://www.mimuw.edu.pl/~mp371303/#contact)
 **Ankieta**: zachęcam do dzielenia się [uwagami na temat ćwiczeń](https://docs.google.com/forms/d/e/1FAIpQLSe3QDDHy27w7oPGy_0ejGIKgPD7-SW2U_LSJdP3McnrsKZnFg/viewform?usp=sf_link)
 -->
 &lt;h2 id="materiały">Materiały&lt;/h2>
@@ -781,25 +781,25 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-1-05-10-2022">Ćwiczenia 1 (05-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_01_problem_set_PL.pdf" target="_blank"> 1. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_01_problem_set_PL.pdf" target="_blank"> 1. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 1.1,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_solution_1_2_PL.pdf" target="_blank"> 1.2 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_solution_1_2_PL.pdf" target="_blank"> 1.2 &lt;/a>
 , 1.3, 1.4,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_solution_1_7_PL.pdf" target="_blank"> 1.7 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_solution_1_7_PL.pdf" target="_blank"> 1.7 &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-2-12-10-2022">Ćwiczenia 2 (12-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_02_problem_set_PL.pdf" target="_blank"> 2. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_02_problem_set_PL.pdf" target="_blank"> 2. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 1.8, 2.4, 2.1&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-3-19-10-2022">Ćwiczenia 3 (19-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_03_problem_set_PL.pdf" target="_blank"> 3. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_03_problem_set_PL.pdf" target="_blank"> 3. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 2.2, 2.5, 2.6&lt;/li>
 &lt;li>do samodzielnej pracy: 2.8, 2.9, 2.10&lt;/li>
@@ -807,7 +807,7 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-4-26-10-2022">Ćwiczenia 4 (26-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_04_problem_set_PL.pdf" target="_blank"> 4. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_04_problem_set_PL.pdf" target="_blank"> 4. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 3.1, 3.2, 3.5&lt;/li>
 &lt;/ul>
@@ -815,7 +815,7 @@ i 4, 6 z przygotowawczych -->
 &lt;ul>
 &lt;li>zajęcia za środę 2.11 (był plan z poniedziałku)&lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_05_problem_set_PL.pdf" target="_blank"> 5. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_05_problem_set_PL.pdf" target="_blank"> 5. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 3.4, 4.1, 4.2, 4.4&lt;/li>
 &lt;li>do samodzielnej pracy: 4.3&lt;/li>
@@ -823,14 +823,14 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-6-09-11-2022">Ćwiczenia 6 (09-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_06_problem_set_PL.pdf" target="_blank"> 6. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_06_problem_set_PL.pdf" target="_blank"> 6. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 4.6, 5.1, 5.2&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-7-16-11-2022">Ćwiczenia 7 (16-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_07_problem_set_PL.pdf" target="_blank"> 7. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_07_problem_set_PL.pdf" target="_blank"> 7. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 5.3, 5.5, 5.6, 5.7&lt;/li>
 &lt;/ul>
@@ -838,33 +838,33 @@ i 4, 6 z przygotowawczych -->
 &lt;ul>
 &lt;li>powtórka przed pierwszym kolokwium&lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_08_problem_set_PL.pdf" target="_blank"> 8. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_08_problem_set_PL.pdf" target="_blank"> 8. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione:
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_solution_17_18_1_1_PL.pdf" target="_blank"> 17/18 zadanie 1 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_solution_17_18_1_1_PL.pdf" target="_blank"> 17/18 zadanie 1 &lt;/a>
 , 21/22 zadania 1 i 3&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-9-23-11-2022">Ćwiczenia 9 (23-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_09_problem_set_PL.pdf" target="_blank"> 9. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_09_problem_set_PL.pdf" target="_blank"> 9. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 4.5, 5.4, 5.8&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-10-30-11-2022">Ćwiczenia 10 (30-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_10_problem_set_PL.pdf" target="_blank"> 10. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_10_problem_set_PL.pdf" target="_blank"> 10. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 7.1,
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_solution_7_2_PL.pdf" target="_blank"> 7.2 &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_solution_7_2_PL.pdf" target="_blank"> 7.2 &lt;/a>
 , 7.4&lt;/li>
 &lt;li>do samodzielnej pracy: 7.5&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-11-07-12-2022">Ćwiczenia 11 (07-12-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_11_problem_set_PL.pdf" target="_blank"> 11. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_11_problem_set_PL.pdf" target="_blank"> 11. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 8.1, 8.2, 8.3, 8.5&lt;/li>
 &lt;li>do samodzielnej pracy: 8.4&lt;/li>
@@ -872,7 +872,7 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-12-14-12-2022">Ćwiczenia 12 (14-12-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_12_problem_set_PL.pdf" target="_blank"> 12. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_12_problem_set_PL.pdf" target="_blank"> 12. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 9.1, 9.4, 9.5, 10.3, 10.4&lt;/li>
 &lt;li>do samodzielnej pracy: 9.2, 9.3&lt;/li>
@@ -880,7 +880,7 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-13-21-12-2022">Ćwiczenia 13 (21-12-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_13_problem_set_PL.pdf" target="_blank"> 13. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_13_problem_set_PL.pdf" target="_blank"> 13. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 7.6, 10.5, 10.6&lt;/li>
 &lt;li>do samodzielnej pracy: 10.2&lt;/li>
@@ -888,7 +888,7 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-14-11-01-2023">Ćwiczenia 14 (11-01-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_14_problem_set_PL.pdf" target="_blank"> 14. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_14_problem_set_PL.pdf" target="_blank"> 14. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 10.1, 11.1, 11.3, 11.4&lt;/li>
 &lt;li>do samodzielnej pracy: 11.2, 11.5&lt;/li>
@@ -897,14 +897,14 @@ i 4, 6 z przygotowawczych -->
 &lt;ul>
 &lt;li>powtórka przed drugim kolokwium&lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_15_problem_set_PL.pdf" target="_blank"> 15. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_15_problem_set_PL.pdf" target="_blank"> 15. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 21/22 zadanie 2, 19/20 zadanie 1, egzamin 18/19 zadanie 4&lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-16-18-01-2023">Ćwiczenia 16 (18-01-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/asd/22_23_ASD_16_problem_set_PL.pdf" target="_blank"> 16. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/asd/22_23_ASD_16_problem_set_PL.pdf" target="_blank"> 16. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>omówione: 12.1, 12.2, 12.3, 12.4, 12.5&lt;/li>
 &lt;/ul>
@@ -916,270 +916,270 @@ i 4, 6 z przygotowawczych -->
 &lt;h2 id="ćwiczenia-18-06-02-2023-dodatkowe">Ćwiczenia 18 (06-02-2023) (dodatkowe)&lt;/h2>
 &lt;ul>
 &lt;li>powtórka przed egzaminem&lt;/li>
-&lt;/ul></description></item><item><title>Teoria Współbieżności, semestr zimowy, 2022/23</title><link>https://michalpawlowski.github.io/michal-academic/teaching/22-23-tw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/teaching/22-23-tw/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=495497&amp;amp;gr_nr=1" target="_blank" rel="noopener">grupa nr 1&lt;/a>, poniedziałki 18:00, sala 3120&lt;/p>
+&lt;/ul></description></item><item><title>Teoria Współbieżności, semestr zimowy, 2022/23</title><link>https://www.mimuw.edu.pl/~mp371303/teaching/22-23-tw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/teaching/22-23-tw/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=495497&amp;amp;gr_nr=1" target="_blank" rel="noopener">grupa nr 1&lt;/a>, poniedziałki 18:00, sala 3120&lt;/p>
 &lt;!--
-**Konsultacje**: proszę o wcześniejszy kontakt [mailowy](https://michalpawlowski.github.io/michal-academic/#contact)
+**Konsultacje**: proszę o wcześniejszy kontakt [mailowy](https://www.mimuw.edu.pl/~mp371303/#contact)
 **Ankieta**: zachęcam do dzielenia się [uwagami na temat ćwiczeń](https://docs.google.com/forms/d/e/1FAIpQLSdWP-PnVTyL6H4elG_VDXW0WvPcniWKwz7bsGQf3l9UmgGTuA/viewform?usp=sf_link)
 -->
 &lt;h2 id="ćwiczenia-1-10-10-2022">Ćwiczenia 1 (10-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_01_problem_set_PL.pdf" target="_blank"> 1. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_01_problem_set_PL.pdf" target="_blank"> 1. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-2-17-10-2022">Ćwiczenia 2 (17-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_02_problem_set_PL.pdf" target="_blank"> 2. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_02_problem_set_PL.pdf" target="_blank"> 2. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-3-24-10-2022">Ćwiczenia 3 (24-10-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_03_problem_set_PL.pdf" target="_blank"> 3. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_03_problem_set_PL.pdf" target="_blank"> 3. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-4-02-11-2022">Ćwiczenia 4 (02-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_04_problem_set_PL.pdf" target="_blank"> 4. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_04_problem_set_PL.pdf" target="_blank"> 4. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-5-07-11-2022">Ćwiczenia 5 (07-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_05_problem_set_PL.pdf" target="_blank"> 5. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_05_problem_set_PL.pdf" target="_blank"> 5. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-6-14-11-2022">Ćwiczenia 6 (14-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_06_problem_set_PL.pdf" target="_blank"> 6. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_06_problem_set_PL.pdf" target="_blank"> 6. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-7-21-11-2022">Ćwiczenia 7 (21-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_07_problem_set_PL.pdf" target="_blank"> 7. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_07_problem_set_PL.pdf" target="_blank"> 7. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-8-28-11-2022">Ćwiczenia 8 (28-11-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_08_problem_set_PL.pdf" target="_blank"> 8. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_08_problem_set_PL.pdf" target="_blank"> 8. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-9-05-12-2022">Ćwiczenia 9 (05-12-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_09_problem_set_PL.pdf" target="_blank"> 9. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_09_problem_set_PL.pdf" target="_blank"> 9. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-10-12-12-2022">Ćwiczenia 10 (12-12-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_10_problem_set_PL.pdf" target="_blank"> 10. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_10_problem_set_PL.pdf" target="_blank"> 10. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-11-19-12-2022">Ćwiczenia 11 (19-12-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_11_problem_set_PL.pdf" target="_blank"> 11. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_11_problem_set_PL.pdf" target="_blank"> 11. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-12-09-01-2023">Ćwiczenia 12 (09-01-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_12_problem_set_PL.pdf" target="_blank"> 12. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_12_problem_set_PL.pdf" target="_blank"> 12. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-13-16-01-2023">Ćwiczenia 13 (16-01-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/22-23/tw/22_23_TW_13_problem_set_PL.pdf" target="_blank"> 13. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/22-23/tw/22_23_TW_13_problem_set_PL.pdf" target="_blank"> 13. lista zadań &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-14-23-01-2023">Ćwiczenia 14 (23-01-2023)&lt;/h2>
 &lt;ul>
 &lt;li>zajęcia prowadzone przez wykładowcę&lt;/li>
-&lt;/ul></description></item><item><title>Teoria Współbieżności, semestr zimowy, 2023/24</title><link>https://michalpawlowski.github.io/michal-academic/teaching/23-24-tw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/teaching/23-24-tw/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=516447&amp;amp;gr_nr=1" target="_blank" rel="noopener">grupa nr 1&lt;/a>, poniedziałki 18:00, sala 3120&lt;/p>
-&lt;p>&lt;strong>Konsultacje&lt;/strong>: proszę o wcześniejszy kontakt &lt;a href="https://michalpawlowski.github.io/michal-academic/#contact">mailowy&lt;/a>&lt;/p>
+&lt;/ul></description></item><item><title>Teoria Współbieżności, semestr zimowy, 2023/24</title><link>https://www.mimuw.edu.pl/~mp371303/teaching/23-24-tw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/teaching/23-24-tw/</guid><description>&lt;p>&lt;strong>Ćwiczenia&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;amp;zaj_cyk_id=516447&amp;amp;gr_nr=1" target="_blank" rel="noopener">grupa nr 1&lt;/a>, poniedziałki 18:00, sala 3120&lt;/p>
+&lt;p>&lt;strong>Konsultacje&lt;/strong>: proszę o wcześniejszy kontakt &lt;a href="https://www.mimuw.edu.pl/~mp371303/#contact">mailowy&lt;/a>&lt;/p>
 &lt;p>&lt;strong>Ankieta&lt;/strong>: zachęcam do dzielenia się &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLScaqiYkh-GS0lj4pHxttyxpQ7ta6_YGAVjzkpyMwAXJHhmalQ/viewform?usp=sf_link" target="_blank" rel="noopener">uwagami na temat ćwiczeń&lt;/a>&lt;/p>
 &lt;h2 id="ćwiczenia-1-02-10-2023">Ćwiczenia 1 (02-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_01_problem_set_PL.pdf" target="_blank"> 1. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_01_problem_set_PL.pdf" target="_blank"> 1. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_01_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_01_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-2-09-10-2023">Ćwiczenia 2 (09-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_02_problem_set_PL.pdf" target="_blank"> 2. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_02_problem_set_PL.pdf" target="_blank"> 2. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_02_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_02_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-3-16-10-2023">Ćwiczenia 3 (16-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_03_problem_set_PL.pdf" target="_blank"> 3. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_03_problem_set_PL.pdf" target="_blank"> 3. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_03_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_03_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-4-23-10-2023">Ćwiczenia 4 (23-10-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_04_problem_set_PL.pdf" target="_blank"> 4. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_04_problem_set_PL.pdf" target="_blank"> 4. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_04_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_04_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-5-06-11-2023">Ćwiczenia 5 (06-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_05_problem_set_PL.pdf" target="_blank"> 5. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_05_problem_set_PL.pdf" target="_blank"> 5. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_05_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_05_tutorial_PL.pdf" target="_blank"> notatki &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-6-13-11-2023">Ćwiczenia 6 (13-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_06_problem_set_PL.pdf" target="_blank"> 6. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_06_problem_set_PL.pdf" target="_blank"> 6. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_06_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_06_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-7-20-11-2023">Ćwiczenia 7 (20-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_07_problem_set_PL.pdf" target="_blank"> 7. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_07_problem_set_PL.pdf" target="_blank"> 7. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_07_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_07_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-8-27-11-2023">Ćwiczenia 8 (27-11-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_08_problem_set_PL.pdf" target="_blank"> 8. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_08_problem_set_PL.pdf" target="_blank"> 8. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_08_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_08_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-9-04-12-2023">Ćwiczenia 9 (04-12-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_09_problem_set_PL.pdf" target="_blank"> 9. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_09_problem_set_PL.pdf" target="_blank"> 9. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_09_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_09_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="ćwiczenia-10-11-12-2023">Ćwiczenia 10 (11-12-2023)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_10_problem_set_PL.pdf" target="_blank"> 10. lista zadań &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_10_problem_set_PL.pdf" target="_blank"> 10. lista zadań &lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/23-24/tw/23_24_TW_10_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/23-24/tw/23_24_TW_10_tutorial_EN.pdf" target="_blank"> notatki (EN) &lt;/a>
 &lt;/li>
-&lt;/ul></description></item><item><title>Theory of Concurrency, summer semester, 2021/22</title><link>https://michalpawlowski.github.io/michal-academic/teaching/21-22-tw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michalpawlowski.github.io/michal-academic/teaching/21-22-tw/</guid><description>&lt;p>&lt;strong>Tutorials&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazZajecia&amp;amp;zaj_cyk_id=461436&amp;amp;gr_nr=1&amp;amp;lang=en" target="_blank" rel="noopener">group no. 1&lt;/a>, Fridays 12:15, room 2070&lt;/p>
+&lt;/ul></description></item><item><title>Theory of Concurrency, summer semester, 2021/22</title><link>https://www.mimuw.edu.pl/~mp371303/teaching/21-22-tw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/teaching/21-22-tw/</guid><description>&lt;p>&lt;strong>Tutorials&lt;/strong>: &lt;a href="https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazZajecia&amp;amp;zaj_cyk_id=461436&amp;amp;gr_nr=1&amp;amp;lang=en" target="_blank" rel="noopener">group no. 1&lt;/a>, Fridays 12:15, room 2070&lt;/p>
 &lt;!--
-**Office hours**: please [send an email](https://michalpawlowski.github.io/michal-academic/#contact) to schedule a meeting
+**Office hours**: please [send an email](https://www.mimuw.edu.pl/~mp371303/#contact) to schedule a meeting
 **Survey**: please [share your thoughts](https://docs.google.com/forms/d/e/1FAIpQLSfmKVcHN8oMpXKeoghGP-tb3mVKH59R1nblC2W8olb3v1Kaeg/viewform) on the classes
 -->
 &lt;h2 id="tutorial-1-03-03-2022">Tutorial 1 (03-03-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_01_problem_set_EN.pdf" target="_blank"> 1. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_01_problem_set_EN.pdf" target="_blank"> 1. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-2-11-03-2022">Tutorial 2 (11-03-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_02_problem_set_EN.pdf" target="_blank"> 2. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_02_problem_set_EN.pdf" target="_blank"> 2. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-3-18-03-2022">Tutorial 3 (18-03-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_03_problem_set_EN.pdf" target="_blank"> 3. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_03_problem_set_EN.pdf" target="_blank"> 3. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-4-25-03-2022">Tutorial 4 (25-03-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_04_problem_set_EN.pdf" target="_blank"> 4. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_04_problem_set_EN.pdf" target="_blank"> 4. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-5-01-04-2022">Tutorial 5 (01-04-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_05_problem_set_EN.pdf" target="_blank"> 5. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_05_problem_set_EN.pdf" target="_blank"> 5. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-6-08-04-2022">Tutorial 6 (08-04-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_06_problem_set_EN.pdf" target="_blank"> 6. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_06_problem_set_EN.pdf" target="_blank"> 6. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-7-22-04-2022">Tutorial 7 (22-04-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_07_problem_set_EN.pdf" target="_blank"> 7. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_07_problem_set_EN.pdf" target="_blank"> 7. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-8-29-04-2022">Tutorial 8 (29-04-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_08_problem_set_EN.pdf" target="_blank"> 8. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_08_problem_set_EN.pdf" target="_blank"> 8. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-9-04-05-2022">Tutorial 9 (04-05-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_09_problem_set_EN.pdf" target="_blank"> 9. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_09_problem_set_EN.pdf" target="_blank"> 9. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-10-13-05-2022">Tutorial 10 (13-05-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_10_problem_set_EN.pdf" target="_blank"> 10. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_10_problem_set_EN.pdf" target="_blank"> 10. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-11-20-05-2022">Tutorial 11 (20-05-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_11_problem_set_EN.pdf" target="_blank"> 11. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_11_problem_set_EN.pdf" target="_blank"> 11. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-12-27-05-2022">Tutorial 12 (27-05-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_12_problem_set_EN.pdf" target="_blank"> 12. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_12_problem_set_EN.pdf" target="_blank"> 12. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-13-03-06-2022">Tutorial 13 (03-06-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_13_problem_set_EN.pdf" target="_blank"> 13. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_13_problem_set_EN.pdf" target="_blank"> 13. problem set &lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="tutorial-14-10-06-2022">Tutorial 14 (10-06-2022)&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://michalpawlowski.github.io/michal-academic/michal-academic/uploads/teaching/21-22/tw/21_22_TW_14_problem_set_EN.pdf" target="_blank"> 14. problem set &lt;/a>
+&lt;a href="https://www.mimuw.edu.pl/~mp371303/~mp371303/uploads/teaching/21-22/tw/21_22_TW_14_problem_set_EN.pdf" target="_blank"> 14. problem set &lt;/a>
 &lt;/li>
 &lt;/ul></description></item></channel></rss>
