@@ -1,22 +1,32 @@
-/* Define the button colors directly under :root */
+/* Light Mode */
 :root {
-  --button-border-color: #1564c0;     /* Darker blue */
-  --button-text-color: #1564c0;       /* Darker blue */
-  --button-hover-bg-color: #1564c0;
-  --button-hover-text-color: #bbddfb; /* Lighter blue */
+  --button-border-color: #1564c0;      /* Darker blue */
+  --button-text-color: #1564c0;        /* Darker blue */
+  --button-hover-bg-color: #1564c0;    /* Darker blue */
+  --button-hover-text-color: #bbddfb;  /* Lighter blue */
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --button-border-color: #1564c0;      /* Same darker blue */
+    --button-text-color: #bbddfb;        /* Lighter blue */
+    --button-hover-bg-color: #1564c0;    /* Darker blue */
+    --button-hover-text-color: #ffffff;  /* White */
+  }
 }
 
 /* Custom Button Styles */
 .custom-button {
   display: inline-flex;
   align-items: center;
-  padding: 5px 10px;
+  padding: 6px 12px;                   /* Adjusted padding */
   border: 1px solid var(--button-border-color);
   background-color: transparent;
   color: var(--button-text-color);
   text-decoration: none;
   border-radius: 3px;
-  font-size: 14px;
+  font-size: 14px;                     /* Updated font size */
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
