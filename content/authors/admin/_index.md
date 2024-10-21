@@ -102,7 +102,7 @@ I work as a Doctoral Researcher for [IDEAS NCBR](https://ideas-ncbr.pl/). -->
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <div>
-    {{< button text="Download Résumé" icon="download" icon_pack="fas" link="uploads/michal_pawlowski_cv.pdf" class="btn btn-outline-primary btn-page-header btn-sm custom-btn-inc-pad" >}}
+    {{< button text="Download Résumé" icon="download" icon_pack="fas" link="uploads/michal_pawlowski_cv.pdf" class="btn btn-outline-primary btn-page-header btn-sm custom-btn-inc-pad custom-btn-inr-icon-sep" >}}
   </div>
   <div>
     <em>Last updated: October 2023&nbsp;</em>
