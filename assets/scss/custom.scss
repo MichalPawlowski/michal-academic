@@ -94,7 +94,7 @@
     color: #bbddfb; /* Light blue text */
   }
 
-  .custom-button:hover {
+  .custom-button:hover, .custom-button:hover * {
     background-color: #1564c0; /* Dark blue background */
     color: #fafdff !important; /* White text */
   }
