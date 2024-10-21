@@ -50,56 +50,9 @@
 //   outline-offset: 2px;
 // }
 
-
-
-/* Default Button Styles (Light Mode) */
-.custom-button {
-  display: inline-flex;
-  align-items: center;
+/* Custom Button Styles */
+.custom-btn-inc-pad {   /* Increased padding */
   padding: 6px 12px;
-  border: 1px solid #1564c0; /* Dark blue border */
-  background-color: transparent;
-  color: #1564c0; /* Dark blue text */
-  text-decoration: none;
-  border-radius: 3px;
+  // border-radius: 3px;
   font-size: 14px;
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.custom-button i {
-  color: inherit;
-  margin-right: 6px;
-}
-
-.custom-button:hover {
-  background-color: #1564c0; /* Dark blue background */
-  color: #fafdff; /* Light blue text */
-}
-
-.custom-button:hover i {
-  color: #fafdff; /* Light blue icon */
-}
-
-/* Focus State for Accessibility */
-.custom-button:focus {
-  outline: 2px dashed #1564c0;
-  outline-offset: 2px;
-}
-
-/* Dark Mode Styles */
-@media (prefers-color-scheme: dark) {
-  /* Button Styles */
-  .custom-button {
-    border-color: #1564c0; /* Dark blue border */
-    color: #bbddfb; /* Light blue text */
-  }
-
-  .custom-button:hover, .custom-button:hover * {
-    background-color: #1564c0; /* Dark blue background */
-    color: #fafdff !important; /* White text */
-  }
-
-  .custom-button:hover i {
-    color: #fafdff; /* White icon */
-  }
 }
