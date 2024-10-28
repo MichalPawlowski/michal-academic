@@ -1,129 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>1 | Michał Pawłowski</title>
-    <link>https://michalpawlowski.github.io/michal-academic/publication-type/1/</link>
-      <atom:link href="https://michalpawlowski.github.io/michal-academic/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://michalpawlowski.github.io/michal-academic/media/icon_hu2b10f3510a97b8d333ea67857d2f1492_2672_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://michalpawlowski.github.io/michal-academic/publication-type/1/</link>
-    </image>
-    
-    <item>
-      <title>Online Matching with Delays and Stochastic Arrival Times</title>
-      <link>https://michalpawlowski.github.io/michal-academic/publication/04_online_multi_level_aggregation/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://michalpawlowski.github.io/michal-academic/publication/04_online_multi_level_aggregation/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment</title>
-      <link>https://michalpawlowski.github.io/michal-academic/publication/03_joined_replenishment/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://michalpawlowski.github.io/michal-academic/publication/03_joined_replenishment/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multi-Level Aggregation with Delays and Stochastic Arrivals</title>
-      <link>https://michalpawlowski.github.io/michal-academic/publication/02_multi_level_aggregation/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://michalpawlowski.github.io/michal-academic/publication/02_multi_level_aggregation/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Online Matching with Delays and Stochastic Arrival Times</title>
-      <link>https://michalpawlowski.github.io/michal-academic/publication/01_online_matching/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://michalpawlowski.github.io/michal-academic/publication/01_online_matching/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/kdyO0xNW_Jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1 | Michał Pawłowski</title><link>https://www.mimuw.edu.pl/~mp371303/publication-type/1/</link><atom:link href="https://www.mimuw.edu.pl/~mp371303/publication-type/1/index.xml" rel="self" type="application/rss+xml"/><description>1</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://www.mimuw.edu.pl/~mp371303/media/icon_hu2b10f3510a97b8d333ea67857d2f1492_2672_512x512_fill_lanczos_center_3.png</url><title>1</title><link>https://www.mimuw.edu.pl/~mp371303/publication-type/1/</link></image><item><title>Online Matching with Delays and Stochastic Arrival Times</title><link>https://www.mimuw.edu.pl/~mp371303/publication/04_online_multi_level_aggregation/</link><pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/04_online_multi_level_aggregation/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Universal Optimization for Non-Clairvoyant Subadditive Joint Replenishment</title><link>https://www.mimuw.edu.pl/~mp371303/publication/03_joined_replenishment/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/03_joined_replenishment/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Multi-Level Aggregation with Delays and Stochastic Arrivals</title><link>https://www.mimuw.edu.pl/~mp371303/publication/02_multi_level_aggregation/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/02_multi_level_aggregation/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Online Matching with Delays and Stochastic Arrival Times</title><link>https://www.mimuw.edu.pl/~mp371303/publication/01_online_matching/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://www.mimuw.edu.pl/~mp371303/publication/01_online_matching/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/kdyO0xNW_Jc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>
