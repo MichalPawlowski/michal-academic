@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b https://michalpawlowski.github.io/michal-academic/ && bash ./deploy.sh"
+  command = "hugo --gc --minify -b https://www.mimuw.edu.pl/~mp371303/ && bash ./deploy.sh"
   publish = "public"
 
 [build.environment]
