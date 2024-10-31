@@ -1,5 +1,5 @@
 ---
-title: 'Online Matching with Delays and Stochastic Arrival Times'
+title: 'Online Multi-level Aggregation with Delays and Stochastic Arrivals'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
