@@ -42,8 +42,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: arXiv
-  url: https://arxiv.org/
+# - name: arXiv
+#   url: https://arxiv.org/
 - name: PDF
   url: '/publications/pdfs/05_publication.pdf'
 # - name: Full Paper
